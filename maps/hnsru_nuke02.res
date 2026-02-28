@@ -1,0 +1,9 @@
+gfx/env/hnsrunukeup.tga
+gfx/env/hnsrunukedn.tga
+gfx/env/hnsrunukelf.tga
+gfx/env/hnsrunukert.tga
+gfx/env/hnsrunukeft.tga
+gfx/env/hnsrunukebk.tga
+sprites/flare1.spr
+sprites/laserbeam.spr
+sound/hnsru_nuke/ambient1.wav

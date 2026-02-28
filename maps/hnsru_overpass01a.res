@@ -1,0 +1,9 @@
+gfx/env/trainyardup.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardbk.tga
+models/pred_plant.mdl
+sound/hnsru_overpass/test_loop.wav
+sound/hnsru_overpass/test_loop2.wav

@@ -1,0 +1,12 @@
+maps/5A_cross.res
+gfx/env/nature01bk.tga
+gfx/env/nature01dn.tga
+gfx/env/nature01ft.tga
+gfx/env/nature01lf.tga
+gfx/env/nature01rt.tga
+gfx/env/nature01up.tga
+models/bush_japan_fern_01.mdl
+models/dnc_truck1.mdl
+models/zps_warehouse_shelfes2.mdl
+models/forge_tree1.mdl
+sound/sverga_birds.wav

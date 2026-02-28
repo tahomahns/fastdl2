@@ -1,0 +1,10 @@
+gfx/env/tropicalup.tga
+gfx/env/tropicaldn.tga
+gfx/env/tropicallf.tga
+gfx/env/tropicalrt.tga
+gfx/env/tropicalft.tga
+gfx/env/tropicalbk.tga
+sprites/scarif/laserbeam.spr
+sound/scarif/key_cut.wav
+models/scarif/prop_rimpalm1a.mdl
+models/scarif/prop_rimpalm1b.mdl

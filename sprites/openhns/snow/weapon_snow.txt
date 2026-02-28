@@ -1,0 +1,4 @@
+3
+weapon			640 openhns/snow/snowball	0	0	170	45
+weapon_s		640 openhns/snow/snowball	0	45	170	45
+ammo			640 openhns/snow/snowball	232	0	24	24

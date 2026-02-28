@@ -1,0 +1,10 @@
+gfx/env/trainyardup.tga
+gfx/env/trainyarddn.tga
+gfx/env/trainyardlf.tga
+gfx/env/trainyardrt.tga
+gfx/env/trainyardft.tga
+gfx/env/trainyardbk.tga
+sprites/flare1.spr
+sound/ambience/boomer.wav
+sound/ambience/flies.wav
+sound/ambience/tankidle1.wav

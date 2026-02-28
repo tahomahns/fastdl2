@@ -1,0 +1,11 @@
+maps/boost_future.bsp
+maps/boost_future.res
+maps/boost_future.txt
+sound/waterfall.wav
+sprites/splash.spr
+gfx/env/forgottenland.tga
+gfx/env/forgottenland.tga
+gfx/env/forgottenland.tga
+gfx/env/forgottenland.tga
+gfx/env/forgottenland.tga
+gfx/env/forgottenland.tga
