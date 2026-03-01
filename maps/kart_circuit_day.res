@@ -1,0 +1,26 @@
+//kart_circuit_day.res created with CtrikeMaps Release v 1.0 by AHBAR
+gfx/env/kart_sky02_dayup.tga
+gfx/env/kart_sky02_daydn.tga
+gfx/env/kart_sky02_daylf.tga
+gfx/env/kart_sky02_dayrt.tga
+gfx/env/kart_sky02_dayft.tga
+gfx/env/kart_sky02_daybk.tga
+//overviews/kart_circuit_day.bmp
+//overviews/kart_circuit_day.txt
+maps/kart_circuit_day.bsp
+maps/kart_circuit_day.res
+//maps/kart_circuit_day.txt
+models/next21_kart/kart_circuit/circuit_hills_b01.mdl
+models/next21_kart/kart_circuit/circuit_props_b01.mdl
+sound/next21_kart/amb_bird_group01.wav
+sound/next21_kart/amb_water_flow02.wav
+sound/next21_kart/amb_wind.wav
+models/next21_kart/kart_circuit/cosmic_body_b01.mdl
+sound/next21_kart/amb_water_flow01_100%.wav
+sprites/watersmoke.spr
+sound/next21_kart/amb_water_flow01_25%.wav
+sound/ambience/fan3.wav
+sound/next21_kart/amb_cricket_groop01.wav
+sound/next21_kart/amb_cricket01.wav
+sound/next21_kart/amb_cricket_groop03.wav
+sprites/next21_kart/glow01.spr
