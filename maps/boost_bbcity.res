@@ -1,0 +1,8 @@
+maps/boost_bbcity.res
+gfx/env/niceday2bk.tga
+gfx/env/niceday2dn.tga
+gfx/env/niceday2ft.tga
+gfx/env/niceday2lf.tga
+gfx/env/niceday2rt.tga
+gfx/env/niceday2up.tga
+sprites/rs_glow01.spr
